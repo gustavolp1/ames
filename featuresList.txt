@@ -1,0 +1,66 @@
+Misc.Feature     106      5     Shed    95 ----- changed to hasShed
+Alley            198      2     Grvl   120 ----- changed to hasAlley
+Mas.Vnr.Type    1155      4  BrkFace   880
+Garage.Type     2773      6   Attchd  1731
+Garage.Cond    2731       5     TA    2631 ----- dropped
+Garage.Qual    2731       5     TA    2580 ----- dropped
+Garage.Finish  2731       3     Unf   1210 ----- dropped (?)
+MS.SubClass     2930     16       20  1079
+Central.Air     2930      2        Y  2734
+Heating         2930      6     GasA  2885 ----- dropped
+Foundation      2930      6    PConc  1310
+Exterior.2nd    2930     17  VinylSd  1015 ----- joined to Exterior
+Exterior.1st    2930     16  VinylSd  1026 ----- joined to Exterior
+Roof.Matl       2930      8  CompShg  2887 ----- dropped
+Roof.Style      2930      6    Gable  2321
+House.Style     2930      8   1Story  1481
+Bldg.Type       2930      5     1Fam  2425
+Condition.2     2930      8     Norm  2900 ----- joined to Condition
+Condition.1     2930      9     Norm  2522 ----- joined to Condition
+Neighborhood    2930     28    NAmes   443
+Lot.Config      2930      5   Inside  2140
+Land.Contour    2930      4      Lvl  2633
+Street          2930      2     Pave  2918
+MS.Zoning       2930      7       RL  2273
+Sale.Type       2930     10      WD   2536
+Sale.Condition  2930      6   Normal  2413
+
+------------------------------------------------------
+
+Lot.Frontage     2397.0      69.472257     23.261537     21.0      59.00   
+Garage.Yr.Blt    2731.0    1978.341633     25.388716   1900.0    1960.00   
+Mas.Vnr.Area     2857.0     103.596430    180.153725      0.0       0.00   
+Bsmt.Half.Bath   2878.0       0.061849      0.246625      0.0       0.00 ----- joined to bathrooms
+Bsmt.Full.Bath   2878.0       0.433634      0.525612      0.0       0.00 ----- joined to bathrooms
+Garage.Cars      2879.0       1.774575      0.757336      0.0       1.00   
+Garage.Area      2879.0     474.925669    214.001822      0.0     325.50   
+BsmtFin.SF.1     2879.0     444.993053    456.336521      0.0       0.00 ----- joined to totalSpace
+BsmtFin.SF.2     2879.0      50.041334    169.929207      0.0       0.00 ----- joined to totalSpace
+Bsmt.Unf.SF      2879.0     562.549844    440.582493      0.0     222.00   
+Total.Bsmt.SF    2879.0    1057.584231    439.306589      0.0     796.00   
+Wood.Deck.SF     2880.0      94.259375    126.960359      0.0       0.00   
+Screen.Porch     2880.0      16.245486     56.512090      0.0       0.00 ----- joined to porch
+Enclosed.Porch   2880.0      22.684375     63.979075      0.0       0.00 ----- joined to porch
+X3Ssn.Porch      2880.0       2.607639     25.308754      0.0       0.00 ----- joined to porch   
+Pool.Area        2880.0       2.282292     35.903722      0.0       0.00
+Misc.Val         2880.0      51.301042    571.124311      0.0       0.00   
+Mo.Sold          2880.0       6.206250      2.708707      1.0       4.00   
+Open.Porch.SF    2880.0      47.626042     66.864636      0.0       0.00 ----- joined to porch   
+Fireplaces       2880.0       0.601389      0.647327      0.0       0.00   
+Half.Bath        2880.0       0.382639      0.503662      0.0       0.00 ----- joined to bathrooms
+Kitchen.AbvGr    2880.0       1.044097      0.213637      0.0       1.00   
+Bedroom.AbvGr    2880.0       2.867361      0.820316      0.0       2.00   
+Yr.Sold          2880.0    2007.788542      1.313914   2006.0    2007.00   
+Full.Bath        2880.0       1.573958      0.552316      0.0       1.00 ----- joined to bathrooms
+Gr.Liv.Area      2880.0    1505.481597    505.854201    334.0    1131.75   
+Low.Qual.Fin.SF  2880.0       4.579861     45.735955      0.0       0.00 ----- joined to totalSpace
+X2nd.Flr.SF      2880.0     336.906250    429.833905      0.0       0.00 ----- joined to totalSpace
+X1st.Flr.SF      2880.0    1163.995486    392.071208    334.0     881.50 ----- joined to totalSpace
+Year.Remod.Add   2880.0    1984.514236     20.799105   1950.0    1966.00   
+Year.Built       2880.0    1971.773264     30.012773   1872.0    1954.00   
+Lot.Area         2880.0   10182.301389   7859.816227   1470.0    7500.00   
+TotRms.AbvGrd    2880.0       6.464236      1.569100      2.0       5.00   
+
+-----------------------------------------
+
+SalePrice        2880.0  181875.418403  79723.474874  12789.0  130000.00   
