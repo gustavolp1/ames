@@ -375,7 +375,6 @@ data['MS.Zoning'] = data['MS.Zoning'].cat.remove_unused_categories()
 
 processed_data = data.copy()
 
-
 def remap_categories(
     series: pd.Series,
     old_categories: tuple[str],
