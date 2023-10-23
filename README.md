@@ -1,5 +1,7 @@
 Grupo: Julia Karine Peres e Gustavo Lindenberg Pacheco
 
+A análise está no arquivo mainNotebook.ipynb.
+
 # Exploratory Analysis of the Ames dataset.
 
 ## Set up your environment
